@@ -1,6 +1,6 @@
 # LiuleYangSemesterProject
 
-
+## NOTE: This repo removed original data (inference_data, training_data), since they are private properties. Only retained extracted data and code implementation here.
 
 ## Structure
 
